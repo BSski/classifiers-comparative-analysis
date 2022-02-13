@@ -7,5 +7,5 @@
 
 <hr>
 
-Part of the code doing pairs extraction and calculating semantic similarity is not mine.
-All classifiers achieved accuracy of 79%+/-0.5%. Performance of classifiers was limited by uni-dimensionality of the data.
+<p align="center">Part of the code doing pairs extraction and calculating semantic similarity is not mine.
+All classifiers achieved accuracy of 79%+/-0.5%. Performance of classifiers was limited by uni-dimensionality of the data.</p>
