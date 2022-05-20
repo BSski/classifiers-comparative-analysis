@@ -17,7 +17,6 @@
 * [Technologies used](#hammer-technologies-used)
 * [Room for improvement](#arrow_up-room-for-improvement)
 * [Contact](#telephone_receiver-contact)
-* [Changelog](#chart_with_upwards_trend-changelog)
 * [Author](#construction_worker-author)
 * [License](#unlock-license)
 
